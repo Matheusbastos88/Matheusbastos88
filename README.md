@@ -40,7 +40,7 @@ sempre revisando código, estrutura e experiência do usuário.
 
 ## 💼 Projetos em destaque
 
-## 💼 Projetos em destaque
+
 
 ### [CRS Lepicka — Site institucional](https://crslepicka.vercel.app/#inicio)
 
