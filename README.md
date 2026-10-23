@@ -42,7 +42,7 @@ sempre revisando código, estrutura e experiência do usuário.
 
 
 
-### [CRS Lepicka — Site institucional](https://crslepicka.vercel.app/#inicio)
+### [CRSLepicka — Site institucional](https://crslepicka.vercel.app/#inicio)
 
 Site institucional desenvolvido como projeto de portfólio para uma profissional
 da área de marketing e consultoria. O projeto apresenta apresentação pessoal,
